@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sanskarsadafal23
+- 👀 I’m interested in Data Exploration  
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science Project
+- 📫 How to reach me Linkedin-
+- https://www.linkedin.com/in/sanskar-sadafal-64886a325/
